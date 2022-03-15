@@ -3,21 +3,21 @@
   "version": "1.0.0",
   "description": "",
   "main": "js/app.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nmartoia/PascalToSnake.git"
+    "url": "git+https://github.com/Max-691/PascalToSnake.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nmartoia/PascalToSnake/issues"
+    "url": "https://github.com/Max-691/PascalToSnake/issues"
   },
-  "homepage": "https://github.com/nmartoia/PascalToSnake#readme",
+  "homepage": "https://github.com/Max-691/PascalToSnake#readme",
   "devDependencies": {
     "mocha": "^9.2.1"
-  },
-  "scripts": {
-    "test": "mocha"
   }
-  
 }
